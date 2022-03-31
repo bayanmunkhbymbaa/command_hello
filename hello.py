@@ -1,7 +1,9 @@
+// For command line git tutorial
+// First: Github modification
+// Second: Local repository modification 
+
 print("Hello world")
 print("Tell your world")
-<<<<<<< HEAD
 print("Tell his  world")
-=======
 print("Tell her world")
->>>>>>> hotfix
+print("Tell my world")
